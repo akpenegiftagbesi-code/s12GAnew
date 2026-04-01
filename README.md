@@ -2,4 +2,6 @@
 Still practicing github 
 
 i really love ....
-Devops! 
+Devops!
+learning hard
+ 
